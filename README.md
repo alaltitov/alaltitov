@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python 🐍  
   
 
-- ✉️ You can contact me for any questions [alaltitov@yandex.ru](mailto:info@alaltitov.ru)  
+- ✉️ You can contact me for any questions [info@alaltitov.ru](mailto:info@alaltitov.ru)  
   
 
 <br/>  
