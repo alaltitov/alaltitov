@@ -44,4 +44,4 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/alaltitov/riviera" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alaltitov&repo=riviera&title_color=fbec5d&text_color=ffffff&icon_color=fbec5d&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="[https://github.com/alaltitov/riviera](https://github.com/alaltitov/Riviera-v.2)" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alaltitov&repo=riviera&title_color=fbec5d&text_color=ffffff&icon_color=fbec5d&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
